@@ -4,7 +4,7 @@ author: ZZ
 pubDatetime: 2025-01-01T04:06:31Z
 slug: example-draft-post
 featured: false
-draft: flase
+draft: false
 tags:
   - TEST
   - Astro

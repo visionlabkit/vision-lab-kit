@@ -4,7 +4,6 @@ export const SITE = {
   profile: "https://satnaing.dev/",
   desc: "Ophthalmology Knowledge & Practice Toolkit",
   title: "Vision LabKit",
-  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
@@ -14,7 +13,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/visionlabkit",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"

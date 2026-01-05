@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5032b36b502b9727",
+            "id": "faa59a696850ff45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "low-dose-atropine-guideline"
-            }
-          },
-          {
-            "id": "faa59a696850ff45",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
             }
           }
         ]
@@ -86,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,10 +169,20 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "5032b36b502b9727",
+  "active": "faa59a696850ff45",
   "lastOpenFiles": [
-    "public/images/blog/atropine_dose.png",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名.base",
+    "src/data/blog/low-dose-atropine-guideline.md",
     "public/images/blog/atropine-dose.png",
+    "public/images/blog/atropine_dose.png",
+    "src/data/blog/images/blog/atropine_dose.png",
+    "src/data/blog/images/blog",
+    "src/data/blog/images/未命名文件夹",
+    "src/data/blog/images",
+    "src/data/blog/未命名文件夹",
+    "src/data/blog/atropine_dose.png",
     "public/images/blog/低浓度阿托品用药示意图.png",
     "public/images/blog/iShot_2026-01-04_15.17.44.png",
     "public/images/blog",
@@ -194,7 +191,6 @@
     "public/未命名文件夹",
     "Pasted image 20260105100039.png",
     "src/data/blog/test.md",
-    "src/data/blog/low-dose-atropine-guideline.md",
     "src/data/blog/未命名.md"
   ]
 }

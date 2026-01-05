@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:atropine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "5032b36b502b9727",
+  "active": "f2329e07e17591ae",
   "lastOpenFiles": [
     "public/images/blog/atropine-dose.png",
     "public/images/blog/低浓度阿托品用药示意图.png",

@@ -49,16 +49,16 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         Read the blog posts or check
         <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="https://github.com/visionlabkit/vision-lab-kit/tree/main"
+          href="https://vision-lab-kit.pages.dev/about/"
         >
-          README
+          About
         </LinkButton> for more info.
       </p>
       {
         // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
           <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Contact Email:</div>
             <Socials />
           </div>
         )

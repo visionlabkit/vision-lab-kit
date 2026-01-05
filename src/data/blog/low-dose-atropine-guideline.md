@@ -2,7 +2,9 @@
 title: "低浓度阿托品使用原则"
 description: "低浓度阿托品近视控制的使用要点"
 pubDatetime: "2026-01-04T08:00:00Z"
-tags: ["atropine","myopia"]
+tags: 
+  - atropine
+  - myopia
 draft: false
 ---
 

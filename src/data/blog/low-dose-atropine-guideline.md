@@ -23,11 +23,6 @@ tags:
 ## <font color="#c00000">使用规范</font>
 ![低浓度阿托品用药示意图](../../../public/images/blog/atropine-dose.png)
 
-
-
-<!-- Website render -->
-<img src="/images/blog/atropine-dose.png" alt="低浓度阿托品用药示意图" />
-
 ---
 ## <font color="#c00000">用药过程和随访</font>
 

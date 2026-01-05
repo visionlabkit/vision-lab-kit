@@ -1,12 +1,11 @@
 ---
 title: 低浓度阿托品使用原则
-description: 近视控制的低浓度阿托品用药要点
+description: 低浓度阿托品近视控制的使用要点
 pubDatetime: 2026-01-04T08:00:00Z
-author: Vision LabKit
-tags:
-  - "#atropine"
-  - "#myopia"
 draft: false
+tags: 
+  - atropine
+  - myopia
 ---
 
 ### <font color="#c00000">适应证</font>
@@ -27,8 +26,14 @@ draft: false
 <!-- Website render -->
 <img src="/images/blog/atropine-dose.png" alt="低浓度阿托品用药示意图" />
 
+<<<<<<< HEAD
 ---
 ### <font color="#c00000">用药过程和随访</font>
+=======
+![低浓度阿托品用药示意图](/images/blog/atropine-dose.png)
+
+### 用药过程和随访
+>>>>>>> 585c616f14e66fb8c42b3c9d1195f741035a064f
 推荐使用方法为每晚睡前1次，1次1滴。
 - 建议<u>第一次随访时间</u>为用药后<mark style="background:#fff88f">1-2周</mark>，以后<mark style="background:#fff88f">每3个月</mark>随访一次，首次随访主要评估眼屈光度、眼压、眼轴长度、眼前节检查和眼底检查以及用药后主观反应。
 - 3个月随访内容包括最佳矫正视力（包括远、近视力）、调节功能、眼压、屈光度、瞳孔检查、眼前节检查、眼轴长度检查；

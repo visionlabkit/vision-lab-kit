@@ -4,8 +4,8 @@ description: 近视控制的低浓度阿托品用药要点
 pubDatetime: 2026-01-04T08:00:00Z
 author: Vision LabKit
 tags:
-  - "#atropine"
-  - "#myopia"
+  - atropine
+  - myopia
 draft: false
 ---
 

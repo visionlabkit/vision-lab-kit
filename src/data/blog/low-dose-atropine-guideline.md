@@ -20,7 +20,7 @@ tags:
 
 ### 使用规范
 
-![低浓度阿托品用药示意图](public/images/blog/atropine_dose.png)
+![低浓度阿托品用药示意图](images/blog/atropine_dose.png)
 
 ### 用药过程和随访
 推荐使用方法为每晚睡前1次，1次1滴。

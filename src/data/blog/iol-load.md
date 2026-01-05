@@ -17,10 +17,8 @@ tags:
 ---
 ## TECNIS-Simplicity预装式
 - 视频链接：[/videos/iol/tecnis.mp4](/videos/iol/tecnis.mp4)
-
 ## TECNIS-非预装式
 - 视频链接：[点击跳转到 YouTube](https://www.youtube.com/watch?v=3xvpfwB3qOk)
-
 ## ZEISS-Bluemixs预装式
 - 适用于409&839
 - 视频链接：[/videos/iol/zeiss-bluemixs.mp4](/videos/iol/zeiss-bluemixs.mp4)
@@ -33,7 +31,7 @@ tags:
 
 ---
 
-> **版权声明：** 
+> 版权声明：
 > 视频内容来源于公开平台，版权归原作者所有，仅作教学参考使用。
 
 

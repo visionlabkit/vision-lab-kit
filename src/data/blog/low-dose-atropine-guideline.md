@@ -1,11 +1,8 @@
 ---
-title: 低浓度阿托品使用原则
-description: 近视控制的低浓度阿托品用药要点
-pubDatetime: 2026-01-04T08:00:00Z
-author: Vision LabKit
-tags:
-  - atropine
-  - myopia
+title: "低浓度阿托品使用原则"
+description: "低浓度阿托品近视控制的使用要点"
+pubDatetime: "2026-01-04T08:00:00Z"
+tags: ["atropine", "myopia"]
 draft: false
 ---
 

@@ -1,3 +1,4 @@
+// 首页基本背后信息，但不显示
 export const SITE = {
   website: "https://vision-lab-kit.pages.dev/", // replace this with your deployed domain
   author: "Dr.Z",

@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "low-dose-atropine-guideline"
             }
+          },
+          {
+            "id": "faa59a696850ff45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ]
       }
@@ -171,6 +183,7 @@
   },
   "active": "5032b36b502b9727",
   "lastOpenFiles": [
+    "Pasted image 20260105100039.png",
     "src/data/blog/test.md",
     "src/data/blog/low-dose-atropine-guideline.md",
     "src/data/blog/未命名.md"

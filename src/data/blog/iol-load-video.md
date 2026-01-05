@@ -11,9 +11,6 @@ tags:
 ## Rayner
 
 <video controls width="100%">
-  <source src="/videos/blog/Rayner.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
+  <source src="/videos/blog/rayner.mov" type="video/mov">
 </video>
-![[Rayner.mp4]]
-
 

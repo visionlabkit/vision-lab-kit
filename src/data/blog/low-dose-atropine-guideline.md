@@ -5,7 +5,6 @@ pubDatetime: 2026-01-04T08:00:00Z
 author: Vision LabKit
 tags:
   - atropine
-  - myopia
 draft: false
 ---
 

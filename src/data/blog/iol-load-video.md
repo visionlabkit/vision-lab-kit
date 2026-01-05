@@ -9,7 +9,6 @@ tags:
 ---
 
 ## Rayner
-
 <video controls width="100%">
   <source src="/videos/blog/rayner.mov" type="video/mov">
 </video>

@@ -8,13 +8,15 @@ tags:
   - IOL
 ---
 ## 目录
-
-- [ZEISS-Bluemixs预装式](#ZEISS-Bluemixs预装式)
-- [ZEISS-Viscoject](#ZEISS-Viscoject)
-- [Rayner](#Rayner)
+- [TECNIS-Simplicity预装式](##TECNIS-Simplicity预装式)
+- [ZEISS-Bluemixs预装式](##ZEISS-Bluemixs预装式)
+- [ZEISS-Viscoject](##ZEISS-Viscoject)
+- [Rayner](##Rayner)
 - [强生](#强生)
 
 ---
+## TECNIS-Simplicity预装式
+- 视频链接：[/videos/iol/tecnis.mp4](/videos/iol/tecnis.mp4)
 ## ZEISS-Bluemixs预装式
 - 适用于409&839
 - 视频链接：[/videos/iol/zeiss-bluemixs.mp4](/videos/iol/zeiss-bluemixs.mp4)

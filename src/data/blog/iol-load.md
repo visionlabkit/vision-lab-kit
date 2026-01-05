@@ -16,7 +16,7 @@ tags:
 ---
 
 ## Rayner
-- 视频链接：[/videos/iol/rayner.mov](/videos/iol/rayner.mov)
+- 视频链接：[/videos/iol/rayner.mp4](/videos/iol/rayner.mp4)
 
 
 

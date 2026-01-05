@@ -7,16 +7,24 @@ tags:
   - cataract
   - IOL
 ---
-
 ## 目录
+
+- [ZEISS-Bluemixs预装式](#ZEISS-Bluemixs预装式)
+- [ZEISS-Viscoject](#ZEISS-Viscoject)
 - [Rayner](#Rayner)
-- [散光 Toric：轴位与旋转定位](#散光-toric轴位与旋转定位)
-- [多焦点/EDOF：展开与居中](#多焦点edof展开与居中)
+- [强生](#强生)
 
 ---
-
+## ZEISS-Bluemixs预装式
+- 适用于409&839
+- 视频链接：[/videos/iol/zeiss-bluemixs.mp4](/videos/iol/zeiss-bluemixs.mp4)
+## ZEISS-Viscoject
+- 适用于709&909
+- 视频链接：[/videos/iol/zeiss-viscoject.mp4](/videos/iol/zeiss-viscoject.mp4)
 ## Rayner
 - 视频链接：[/videos/iol/rayner.mp4](/videos/iol/rayner.mp4)
+
+
 
 
 

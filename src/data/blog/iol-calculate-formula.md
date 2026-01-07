@@ -1,6 +1,6 @@
 ---
-title: 人工晶状体计算公式演变
-description: 人工晶状体计算公式介绍
+title: 人工晶状体计算公式-人工智能与光线追迹公式
+description: 人工晶状体计算公式-人工智能与光线追迹公式
 pubDatetime: 2026-01-05T08:00:00Z
 draft: false
 tags:
@@ -34,7 +34,8 @@ tags:
 - Gills formula
 - Clayman formula
 - Fyodorov formula
-![传统理论公式计算|300](../../../public/images/blog/formula1.jpg)
+
+<img src="../../../public/images/blog/formula1.jpg" alt="传统理论公式计算" width="300">
 
 ---
 ## 第二阶段：回归公式
@@ -65,7 +66,7 @@ tags:
 - IOL 仍视为薄透镜
 - ELP 通过理论或经验方法预测
 
-### 代表公式（出现年份）
+### 代表公式
 - **Hoffer Q**（1993）
 - **Holladay 1**（1993）
 - **SRK/T**（1994）

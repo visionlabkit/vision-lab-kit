@@ -1,6 +1,6 @@
 ---
-title: 人工晶状体计算公式-人工智能与光线追迹公式
-description: 人工晶状体计算公式-人工智能与光线追迹公式
+title: 人工晶状体计算公式
+description: 人工晶状体计算公式
 pubDatetime: 2026-01-05T08:00:00Z
 draft: false
 tags:

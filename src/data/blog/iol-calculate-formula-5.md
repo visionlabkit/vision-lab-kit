@@ -1,6 +1,6 @@
 ---
-title: 人工晶状体计算公式演变
-description: 人工晶状体计算公式介绍
+title: 人工晶状体计算公式-人工智能与光线追迹公式
+description: 人工晶状体计算公式-人工智能与光线追迹公式
 pubDatetime: 2026-01-05T09:30:00Z
 draft: false
 tags:

@@ -7,6 +7,11 @@ tags:
   - cataract
   - IOL
 ---
+## 目录
+[第一阶段：传统理论公式].
+
+
+---
 
 ## <font color="#c00000">第一阶段：传统理论公式</font>
 
@@ -24,7 +29,7 @@ tags:
 - Gills formula
 - Clayman formula
 - Fyodorov formula
-![传统理论公式计算](../../../public/images/blog/formula1.jpg)
+![传统理论公式计算|300](../../../public/images/blog/formula1.jpg)
 
 ---
 ## <font color="#c00000">第二阶段：回归公式</font>
@@ -40,6 +45,7 @@ tags:
 ### 代表公式
 - **SRK I**（1979）： 公式：P = A-2.5（L）-0.9（K）
 - **SRK II**（1988）：公式：P = <font color="#0070c0">A</font>-2.5（L）-0.9（K）(根据眼轴校正A常数)
+	- L=眼轴长度 K=角膜曲率
 
 ---
 ## <font color="#c00000">第三阶段：薄透镜视差理论公式</font>

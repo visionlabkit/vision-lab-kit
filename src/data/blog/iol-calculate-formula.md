@@ -35,7 +35,8 @@ tags:
 - Clayman formula
 - Fyodorov formula
 
-<img src="../../../public/images/blog/formula1.jpg" alt="传统理论公式计算">
+![传统人工晶状体计算](../../../public/images/blog/formula1.jpg)
+
 
 ---
 ## 第二阶段：回归公式

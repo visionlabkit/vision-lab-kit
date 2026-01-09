@@ -10,8 +10,8 @@ tags:
 
 ## 目录
 - [公式计算理论](#公式计算理论)
-- [公式1：Hoffer Q](#公式1：Hoffer Q)
-- [公式2：Holladay 1](#公式2：Holladay 1)
+- [公式1：Hoffer Q](#公式1：Hoffer-Q)
+- [公式2：Holladay 1](#公式2：Holladay-1)
 - [公式3：SRK/T](#公式3：SRK/T)
  
 ---
@@ -59,7 +59,7 @@ tags:
 > 👉🏻第三代公式之间的差别，主要在于它们对ELP的预测方法不同。
 
 ---
-## 公式1：Hoffer Q
+## 公式1：Hoffer-Q
 
 ##### 核心思想：ELP 主要由眼轴决定
 
@@ -82,7 +82,7 @@ tags:
 - 不适用于屈光手术后角膜
 
 ---
-## 公式2：Holladay 1
+## 公式2：Holladay-1
 ##### 核心思想：Surgeon Factor（手术者因子）
 
 > Holladay 1 的最大特点是引入了**Surgeon Factor（SF）**

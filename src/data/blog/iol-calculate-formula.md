@@ -89,6 +89,7 @@ tags:
 - **Haigis**（2000）
 - **Holladay 2**（2003）
 - **Olsen**（2007）
+- **Barrett Universal II（2010）**
 
 👉🏻点击查看[第四阶段：厚透镜多变量理论公式]详细介绍（一看就懂）
 
